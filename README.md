@@ -69,4 +69,4 @@ print("----------------------------------------------------------------------")
 ![Alt text](image-2.png)
 
 ## Result
-The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
+The average number of material in the system and in the conveyor and waiting time are successfully found.
